@@ -1,8 +1,3 @@
-// Name : Gülsüm İkbal Avşar - 64180006
-// Course : Programming for Engineers - Fall 2021-2022
-//           Question-1
-// Purpose : The main aim of this program to construct a calendar that user
-//           enter the year wanting to display months and days.
 
 #include <iostream>
 #include <iomanip>
