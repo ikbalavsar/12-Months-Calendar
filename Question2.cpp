@@ -1,10 +1,3 @@
-// Name : Gülsüm İkbal Avşar - 64180006
-// Course : Programming for Engineers - Fall 2021-2022
-//           Question-2
-// Purpose : The question wants from us to find the prime number
-//           from an array basically. This array will be created with result of
-//           a mathematical expression which is 3^k - 2^k. k will be
-//           between 0 and 32.
 
 #include <iostream>
 
